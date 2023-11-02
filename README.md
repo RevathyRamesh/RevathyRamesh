@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RevathyRamesh
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Master of Science in Informstion Technology
+- 👀 I’ve one experience as software engineer 
+- 🌱 I completed Master's in information technology.
 - 📫 www.linkedin.com/in/revathy-r-950b3b1b9 This is my linkedIn Profile
 
 <!---
