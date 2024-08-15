@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RevathyRamesh
-- 👀 I’ve 1.8 years experience as software engineer. I'm good at Frontend technologies like Html, css, javascript, jquery, ajax, ReactJS, Redux, and NextJS.
+- 👀 I’ve 1.10 years experience as software engineer. I'm good at Frontend technologies like Html, css, javascript, jquery, ajax, ReactJS, Redux, and NextJS.
 - 🌱 I completed Master's in information technology.
 - 📫 www.linkedin.com/in/revathy-r-950b3b1b9 This is my linkedIn Profile
 
